@@ -1,0 +1,17 @@
+{
+  "name": "نظام المصاريف",
+  "short_name": "مصاريف",
+  "start_url": "/expense-tracker/",
+  "display": "standalone",
+  "background_color": "#08080f",
+  "theme_color": "#08080f",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
